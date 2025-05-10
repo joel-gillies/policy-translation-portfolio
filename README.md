@@ -5,4 +5,6 @@ Plain-language rewrites of NZ firearms legislation
 
 Below are examples of my plain-language rewrites
 
-- [How to Apply for a Firearms Licence](samples/applying-for-a-firearms-licence.md)
+| Article                             | View (MD)                                                    | Download (PDF)
+|-------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| How to Apply for a Firearms Licence | [View on GitHub](samples/applying-for-a-firearms-licence.md) | [![PDF](https://img.shields.io/badge/PDF-Download-red?logo=adobe)](samples/applying-for-a-firearms-licence.pdf) |
