@@ -8,3 +8,4 @@ Below are examples of my plain-language rewrites
 | Article                             | View (MD)                                                    | Download (PDF)
 |-------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | How to Apply for a Firearms Licence | [View on GitHub](samples/applying-for-a-firearms-licence.md) | [![PDF](https://img.shields.io/badge/PDF-Download-red?logo=adobe)](samples/applying-for-a-firearms-licence.pdf) |
+| Safe Storage of Firearms & Ammunition | [View on GitHub](samples/storage-of-firearms-ammunition.md) | [![PDF](https://img.shields.io/badge/PDF-Download-red?logo=adobe)](samples/storage-of-firearms-ammunition.pdf) |
